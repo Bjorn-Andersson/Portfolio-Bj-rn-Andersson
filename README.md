@@ -19,13 +19,3 @@ In this portfolio you will see my projects that I have programmed for my JavaScr
 [covid]: https://github.com/Bjorn-Andersson/JavaScript-slutprojekt
 [Poke]: https://github.com/Bjorn-Andersson/individuellt-projekt
 [deg]: https://github.com/Markus-Simonsen-ITHS/JavaScript-med-ramverk-laboration-3
-
-| Published versions                                   | Description 
-| ---------------------------------------------------- | ---------------------------------------- 
-| [JavaScript slutprojekt][JSind]                      | Displaying worldwide COVID-19 statistics 
-| [JavaScript med ramverk individuellt projekt][ind]   | Pokémon GEN 1 learning website 
-| [JavaScript med ramverk grupprojekt][grupp]          | A website for calculating your budget  
-
-[JSind]:
-[ind]: https://bjorn-andersson.github.io/#/
-[grupp]:
